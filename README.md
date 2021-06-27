@@ -1,3 +1,7 @@
-#A React App showing different Monsters
+# About Project
 
-#Hope You will not get scared
+A React App showing different Monsters
+
+## Description
+
+Hope You will not get scared
